@@ -1,6 +1,4 @@
-package org.designPattern;
-
-import java.io.Serializable;
+package org.designPattern.singleton;
 
 /**
  * As mentioned in Lazy Initialization if our get instance method invoked by two thread at the

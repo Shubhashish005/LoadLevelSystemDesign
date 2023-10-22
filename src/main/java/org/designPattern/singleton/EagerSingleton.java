@@ -1,6 +1,4 @@
-package org.designPattern;
-
-import java.io.Serializable;
+package org.designPattern.singleton;
 
 /**
  * This is eager initialization concept where

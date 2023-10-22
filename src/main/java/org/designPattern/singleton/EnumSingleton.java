@@ -1,4 +1,4 @@
-package org.designPattern;
+package org.designPattern.singleton;
 
 /**
  * Here we described creating singleton using enum but why?
